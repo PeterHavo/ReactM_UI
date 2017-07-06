@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import MyAwesomeReactComponent from './MyAwesomeReactComponent.jsx';
-// import TodoList from './test.jsx';
+import TodoList from './test.jsx';
 
 
 
